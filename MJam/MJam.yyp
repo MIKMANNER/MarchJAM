@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "5fc0ad75-480f-4f6b-8925-dad35797b307",
+            "Value": {
+                "id": "4f9e86dc-1722-49d6-856d-78fc2b0fb16b",
+                "resourcePath": "objects\\wank\\wank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7a01486a-c614-44de-a2de-8f8294f47dec",
             "Value": {
                 "id": "4d2ed6ba-05a8-45a7-b1f9-c06be45e3a5e",
