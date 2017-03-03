@@ -1,8 +1,8 @@
 {
-    "id": "5fc0ad75-480f-4f6b-8925-dad35797b307",
+    "id": "12bfed07-0275-46cb-bb4b-41734f7ebe28",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "wank",
+    "name": "obj_tile_test",
     "eventList": [
         
     ],
